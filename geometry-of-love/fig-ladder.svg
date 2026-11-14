@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 300" aria-hidden="true">
+<line class="l" x1="170" y1="285" x2="170" y2="70"/>
+<line class="l" x1="230" y1="285" x2="230" y2="70"/>
+<line class="l" x1="170" y1="262" x2="230" y2="262"/>
+<text x="156" y="267" text-anchor="end" class="m">one body</text>
+<line class="l" x1="170" y1="222" x2="230" y2="222"/>
+<text x="156" y="227" text-anchor="end" class="m">all bodies</text>
+<line class="l" x1="170" y1="182" x2="230" y2="182"/>
+<text x="156" y="187" text-anchor="end" class="m">souls</text>
+<line class="l" x1="170" y1="142" x2="230" y2="142"/>
+<text x="156" y="147" text-anchor="end" class="m">laws and ways of life</text>
+<line class="l" x1="170" y1="102" x2="230" y2="102"/>
+<text x="156" y="107" text-anchor="end" class="m">knowledge</text>
+<line class="l" x1="170" y1="70" x2="230" y2="70"/>
+<circle class="a" cx="200" cy="30" r="13"/>
+<text x="222" y="35" text-anchor="start">beauty itself</text>
+<circle class="pm" cx="200" cy="262" r="4.5"/>
+<text x="244" y="267" text-anchor="start" class="m">the beloved</text>
+<circle class="pa" cx="200" cy="142" r="5"/>
+<text x="244" y="147" text-anchor="start">the lover</text>
+</svg>

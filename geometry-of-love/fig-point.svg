@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 235" aria-hidden="true">
+<line class="f" x1="60" y1="170" x2="150" y2="52"/>
+<line class="f" x1="240" y1="170" x2="150" y2="52"/>
+<circle class="f" cx="150" cy="52" r="5"/>
+<circle class="f" cx="60" cy="170" r="4.5"/>
+<circle class="f" cx="240" cy="170" r="4.5"/>
+<line class="f" x1="72" y1="170" x2="132" y2="170"/>
+<line class="f" x1="228" y1="170" x2="168" y2="170"/>
+<path class="pm" d="M136.0 170.0 L129.0 173.0 L129.0 167.0 Z"/>
+<path class="pm" d="M164.0 170.0 L171.0 167.0 L171.0 173.0 Z"/>
+<circle class="pa" cx="150" cy="170" r="6"/>
+<text x="150" y="198" text-anchor="middle">one</text>
+<text x="150" y="230" text-anchor="middle" class="t">fused</text>
+</svg>

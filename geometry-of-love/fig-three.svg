@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 235" aria-hidden="true">
+<line class="d" x1="60" y1="170" x2="240" y2="170"/>
+<line class="l" x1="60" y1="170" x2="150" y2="52"/>
+<line class="l" x1="240" y1="170" x2="150" y2="52"/>
+<circle class="p" cx="60" cy="170" r="4.5"/>
+<circle class="p" cx="240" cy="170" r="4.5"/>
+<circle class="pa" cx="150" cy="52" r="5"/>
+<text x="150" y="34" text-anchor="middle" class="m">the third</text>
+<text x="60" y="198" text-anchor="middle">lover</text>
+<text x="240" y="198" text-anchor="middle">beloved</text>
+<text x="150" y="230" text-anchor="middle" class="t">three points</text>
+</svg>

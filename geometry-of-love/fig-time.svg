@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 210" aria-hidden="true">
+<line class="l" x1="16" y1="175" x2="352" y2="175"/>
+<path class="p" d="M362.0 175.0 L353.0 179.0 L353.0 171.0 Z"/>
+<line class="l" x1="28" y1="171" x2="28" y2="179"/>
+<line class="l" x1="52" y1="171" x2="52" y2="179"/>
+<line class="l" x1="76" y1="171" x2="76" y2="179"/>
+<line class="l" x1="100" y1="171" x2="100" y2="179"/>
+<line class="l" x1="124" y1="171" x2="124" y2="179"/>
+<line class="l" x1="148" y1="171" x2="148" y2="179"/>
+<line class="l" x1="172" y1="171" x2="172" y2="179"/>
+<line class="l" x1="196" y1="171" x2="196" y2="179"/>
+<line class="l" x1="220" y1="171" x2="220" y2="179"/>
+<line class="l" x1="244" y1="171" x2="244" y2="179"/>
+<line class="l" x1="268" y1="171" x2="268" y2="179"/>
+<line class="l" x1="292" y1="171" x2="292" y2="179"/>
+<line class="l" x1="316" y1="171" x2="316" y2="179"/>
+<line class="l" x1="340" y1="171" x2="340" y2="179"/>
+<path class="a" style="opacity:0.9" d="M83.3 157.3 A30.6 18 0 0 1 108.6 175"/>
+<path class="a" style="opacity:0.72" d="M88.6 139.5 A61.2 36 0 0 1 139.2 175"/>
+<path class="a" style="opacity:0.55" d="M95.1 117.9 A98.6 58 0 0 1 176.6 175"/>
+<path class="a" style="opacity:0.4" d="M102.8 92.3 A142.8 84 0 0 1 220.8 175"/>
+<path class="a" style="opacity:0.28" d="M111.7 62.7 A193.8 114 0 0 1 271.8 175"/>
+<path class="a" style="opacity:0.8" d="M122.3 27.3 A255.0 150 0 0 1 333.0 175"/>
+<circle class="pa" cx="78" cy="175" r="5.5"/>
+<text x="78" y="201" text-anchor="middle">a moment</text>
+<text x="362" y="201" text-anchor="end" class="m">years</text>
+</svg>
