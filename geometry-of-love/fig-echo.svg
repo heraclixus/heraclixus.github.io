@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 200" aria-hidden="true">
+<path class="l" d="M88 90 Q190 18 292 90"/>
+<path class="p" d="M292.0 90.0 L282.3 88.1 L287.0 81.5 Z"/>
+<path class="a" d="M292 110 Q190 182 88 110"/>
+<path class="ha" d="M88.0 110.0 L97.7 111.9 L93.0 118.5 Z"/>
+<circle class="p" cx="80" cy="100" r="4.5"/>
+<circle class="p" cx="300" cy="100" r="4.5"/>
+<text x="64" y="105" text-anchor="end">lover</text>
+<text x="316" y="105" text-anchor="start">beloved</text>
+<text x="190" y="40" text-anchor="middle">eros</text>
+<text x="190" y="176" text-anchor="middle">anteros</text>
+</svg>

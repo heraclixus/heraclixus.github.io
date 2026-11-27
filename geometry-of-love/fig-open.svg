@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 235" aria-hidden="true">
+<line class="a" x1="14" y1="56" x2="286" y2="56"/>
+<text x="150" y="38" text-anchor="middle" class="m">world</text>
+<line class="l" x1="120" y1="180" x2="120" y2="82"/>
+<line class="l" x1="180" y1="180" x2="180" y2="82"/>
+<path class="p" d="M120.0 76.0 L124.0 85.0 L116.0 85.0 Z"/>
+<path class="p" d="M180.0 76.0 L184.0 85.0 L176.0 85.0 Z"/>
+<line class="l" x1="120" y1="180" x2="180" y2="180"/>
+<circle class="p" cx="120" cy="180" r="4.5"/>
+<circle class="p" cx="180" cy="180" r="4.5"/>
+<text x="114" y="204" text-anchor="end">self</text>
+<text x="186" y="204" text-anchor="start">another self</text>
+<text x="150" y="230" text-anchor="middle" class="t">friendship</text>
+</svg>
